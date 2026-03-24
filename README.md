@@ -2,9 +2,13 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,50:203a43,100:2c5364&text=Lucas%20Dev&fontColor=ffffff&fontAlignY=35&desc=Desenvolvedor%20em%20evolução&descAlignY=55"/>
 </div>
 
+<div align="center">
+  <img height="300" src="https://images.steamusercontent.com/ugc/856100508766670275/B3E10AE109B21989F10118DEEC07541D8F6790F2/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"/>
+</div>
+
 ---
 
-<h2 align="center">🌙 Desenvolvedor em evolução</h2>
+<h2 align="center">🌙 Lucas Souza - Desenvolvedor em evolução</h2>
 
 ---
 
@@ -50,6 +54,6 @@
 
 <div align="center">
   
-💡 *Evoluir constantemente como desenvolvedor e criar projetos que conectem tecnologia + criatividade.*
+💡 - *Evoluir constantemente como desenvolvedor e criar projetos que conectem tecnologia + criatividade.*
 
 </div>
